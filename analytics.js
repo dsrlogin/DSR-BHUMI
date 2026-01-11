@@ -1,1 +1,1 @@
-alert ('ok ji');
+SpreadsheetApp.getUi().alert("Hello DSR VERMA ji!");
