@@ -1,1 +1,1 @@
-SpreadsheetApp.getUi().alert("Hello DSR VERMA ji!");
+Logger.log("Hello DSR VERMA");
